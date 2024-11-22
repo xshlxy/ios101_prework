@@ -4,7 +4,7 @@ Submitted by: **Ashley Oliveira Andrade**
 
 **Background Changer - About Me** is an app that displays some basic UI items, and lets the user change the background color through the button.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
