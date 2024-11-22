@@ -7,19 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		AB55EFD42CEFCE10001E61BF /* IOS101_Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS101_Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB55F0072CEFF787001E61BF /* IOS101_Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS101_Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AB55F0192CEFF789001E61BF /* Exceptions for "IOS101_Prework" folder in "IOS101_Prework" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = AB55F0062CEFF787001E61BF /* IOS101_Prework */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		AB55EFD62CEFCE10001E61BF /* IOS101_Prework */ = {
+		AB55F0092CEFF787001E61BF /* IOS101_Prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AB55F0192CEFF789001E61BF /* Exceptions for "IOS101_Prework" folder in "IOS101_Prework" target */,
+			);
 			path = IOS101_Prework;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		AB55EFD12CEFCE10001E61BF /* Frameworks */ = {
+		AB55F0042CEFF787001E61BF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AB55EFCB2CEFCE0F001E61BF = {
+		AB55EFFE2CEFF787001E61BF = {
 			isa = PBXGroup;
 			children = (
-				AB55EFD62CEFCE10001E61BF /* IOS101_Prework */,
-				AB55EFD52CEFCE10001E61BF /* Products */,
+				AB55F0092CEFF787001E61BF /* IOS101_Prework */,
+				AB55F0082CEFF787001E61BF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		AB55EFD52CEFCE10001E61BF /* Products */ = {
+		AB55F0082CEFF787001E61BF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AB55EFD42CEFCE10001E61BF /* IOS101_Prework.app */,
+				AB55F0072CEFF787001E61BF /* IOS101_Prework.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AB55EFD32CEFCE10001E61BF /* IOS101_Prework */ = {
+		AB55F0062CEFF787001E61BF /* IOS101_Prework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AB55EFE72CEFCE13001E61BF /* Build configuration list for PBXNativeTarget "IOS101_Prework" */;
+			buildConfigurationList = AB55F01A2CEFF789001E61BF /* Build configuration list for PBXNativeTarget "IOS101_Prework" */;
 			buildPhases = (
-				AB55EFD02CEFCE10001E61BF /* Sources */,
-				AB55EFD12CEFCE10001E61BF /* Frameworks */,
-				AB55EFD22CEFCE10001E61BF /* Resources */,
+				AB55F0032CEFF787001E61BF /* Sources */,
+				AB55F0042CEFF787001E61BF /* Frameworks */,
+				AB55F0052CEFF787001E61BF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				AB55EFD62CEFCE10001E61BF /* IOS101_Prework */,
+				AB55F0092CEFF787001E61BF /* IOS101_Prework */,
 			);
 			name = IOS101_Prework;
 			packageProductDependencies = (
 			);
 			productName = IOS101_Prework;
-			productReference = AB55EFD42CEFCE10001E61BF /* IOS101_Prework.app */;
+			productReference = AB55F0072CEFF787001E61BF /* IOS101_Prework.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		AB55EFCC2CEFCE10001E61BF /* Project object */ = {
+		AB55EFFF2CEFF787001E61BF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					AB55EFD32CEFCE10001E61BF = {
+					AB55F0062CEFF787001E61BF = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = AB55EFCF2CEFCE10001E61BF /* Build configuration list for PBXProject "IOS101_Prework" */;
+			buildConfigurationList = AB55F0022CEFF787001E61BF /* Build configuration list for PBXProject "IOS101_Prework" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = AB55EFCB2CEFCE0F001E61BF;
+			mainGroup = AB55EFFE2CEFF787001E61BF;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = AB55EFD52CEFCE10001E61BF /* Products */;
+			productRefGroup = AB55F0082CEFF787001E61BF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AB55EFD32CEFCE10001E61BF /* IOS101_Prework */,
+				AB55F0062CEFF787001E61BF /* IOS101_Prework */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		AB55EFD22CEFCE10001E61BF /* Resources */ = {
+		AB55F0052CEFF787001E61BF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		AB55EFD02CEFCE10001E61BF /* Sources */ = {
+		AB55F0032CEFF787001E61BF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,13 +138,14 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		AB55EFE82CEFCE13001E61BF /* Debug */ = {
+		AB55F01B2CEFF789001E61BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 23X3J5SXPC;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOS101_Prework/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -152,13 +166,14 @@
 			};
 			name = Debug;
 		};
-		AB55EFE92CEFCE13001E61BF /* Release */ = {
+		AB55F01C2CEFF789001E61BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 23X3J5SXPC;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOS101_Prework/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -179,7 +194,7 @@
 			};
 			name = Release;
 		};
-		AB55EFEA2CEFCE13001E61BF /* Debug */ = {
+		AB55F01D2CEFF789001E61BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -242,7 +257,7 @@
 			};
 			name = Debug;
 		};
-		AB55EFEB2CEFCE13001E61BF /* Release */ = {
+		AB55F01E2CEFF789001E61BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -301,25 +316,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AB55EFCF2CEFCE10001E61BF /* Build configuration list for PBXProject "IOS101_Prework" */ = {
+		AB55F0022CEFF787001E61BF /* Build configuration list for PBXProject "IOS101_Prework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AB55EFEA2CEFCE13001E61BF /* Debug */,
-				AB55EFEB2CEFCE13001E61BF /* Release */,
+				AB55F01D2CEFF789001E61BF /* Debug */,
+				AB55F01E2CEFF789001E61BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AB55EFE72CEFCE13001E61BF /* Build configuration list for PBXNativeTarget "IOS101_Prework" */ = {
+		AB55F01A2CEFF789001E61BF /* Build configuration list for PBXNativeTarget "IOS101_Prework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AB55EFE82CEFCE13001E61BF /* Debug */,
-				AB55EFE92CEFCE13001E61BF /* Release */,
+				AB55F01B2CEFF789001E61BF /* Debug */,
+				AB55F01C2CEFF789001E61BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = AB55EFCC2CEFCE10001E61BF /* Project object */;
+	rootObject = AB55EFFF2CEFF787001E61BF /* Project object */;
 }
