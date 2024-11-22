@@ -30,7 +30,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 I would like to build a web app designed to help Latin-American immigrant children adapt to American culture and language. The app would feature interactive flashcards to build vocabulary, story-based lessons to teach basic grammar, and matching activities to reinforce learning. For cultural exploration, it would include animated stories introducing U.S. traditions and an interactive map highlighting cultural landmarks. To keep users engaged, the app would use gamification, offering points, badges, and mini-games as rewards for progress. The goal is to create a fun, accessible tool that supports young learners in building confidence and adapting to their new environment.
 ## Notes
 
-One challenege was understanding the number of the colors because I wanted to make the background color pastel, but I figured it out and made it look good.
+One challenge was understanding the number of the colors because I wanted to make the background color pastel, but I figured it out and made it look good.
 
 ## License
 
