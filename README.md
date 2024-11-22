@@ -18,9 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='./Documents/Programming/ios101prework_demo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 1. Instagram - I like how it catches my attention and the UI is very simple to use.
