@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='Documents/Programming/ios101prework_demo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ios101prework_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 1. Instagram - I like how it catches my attention and the UI is very simple to use.
